@@ -1,0 +1,15 @@
+extends layout
+
+block content
+	h1 Informations about my pets
+	hr
+	.row.text-center.text-lg-left
+		each pet in petsInfo
+			.col-lg-4.col-md-4.col-6
+				.card(style='width: 18rem;')
+					img.card-img-top(src=pet.images[0], alt=pet.name, style='height: 18rem; object-fit: contain;')
+					.card-body
+						h5.card-title=pet.name
+						p.card-text
+							| #{pet.info}
+						a.btn.btn-secondary(href="/data/" + pet.name) See #{pet.name}'s json data
