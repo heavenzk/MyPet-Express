@@ -3,27 +3,27 @@
 		"name" : "Puggie",
 		"info" : "Round head, square body, curly tail — that’s the Pug. Wherever he goes, his wrinkly face and fun-loving personality charm people. He is good with other dogs, cats, and children, and nothing makes him happier than being part of the family. He’s no jogging buddy, but this lively fellow loves an outing to the office or park.",
 		"images" : [
-			"http://localhost:3000/images/puggie/my_pug.jpg",
-			"http://localhost:3000/images/puggie/my_pug1.jpg",
-			"http://localhost:3000/images/puggie/my_pug2.jpg"
+			"images/puggie/my_pug.jpg",
+			"images/puggie/my_pug1.jpg",
+			"images/puggie/my_pug2.jpg"
 		]
 	},
 	{
 		"name" : "Meow",
 		"info" : "Bengals may look wild, with their spotted and marbled coats, but they are known for often being affectionate, attention-seeking cats who tend to love their owners.",
 		"images" : [
-			"http://localhost:3000/images/meow/my_cat.jfif",
-			"http://localhost:3000/images/meow/my_cat1.jpg",
-			"http://localhost:3000/images/meow/my_cat2.jpg"
+			"images/meow/my_cat.jfif",
+			"images/meow/my_cat1.jpg",
+			"images/meow/my_cat2.jpg"
 		]
 	},
 	{
 		"name" : "Simba",
 		"info" : "Simba is a rowdy, independent little cub who likes to romp and play.",
 		"images" : [
-			"http://localhost:3000/images/simba/my_lion.jpg",
-			"http://localhost:3000/images/simba/my_lion1.jpg",
-			"http://localhost:3000/images/simba/my_lion2.jpg"
+			"images/simba/my_lion.jpg",
+			"images/simba/my_lion1.jpg",
+			"images/simba/my_lion2.jpg"
 		]
 	}
 ]
